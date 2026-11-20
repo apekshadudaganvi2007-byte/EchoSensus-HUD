@@ -1,0 +1,10 @@
+EchoSensus-HUD/
+├── android/                   # Capacitor Android project files
+├── public/                    # PWA icons & static assets
+├── src/
+│   ├── App.jsx                # Main Spatial HUD logic & multi-language engine
+│   ├── main.jsx
+│   └── index.css
+├── AndroidManifest.xml        # Configured microphone & haptic permissions
+├── package.json
+└── README.md                  # Main submission documentation
