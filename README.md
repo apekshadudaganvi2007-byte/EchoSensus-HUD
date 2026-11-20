@@ -46,7 +46,7 @@ The app compiles to a native Android APK with configured permissions in `Android
 ### Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/EchoSensus-HUD.git](https://github.com/YOUR_USERNAME/EchoSensus-HUD.git)
+git clone [https://github.com/apekshadudaganvi2007-byte/EchoSensus-HUD.git](https://github.com/apekshadudaganvi2007-byte/EchoSensus-HUD.git)
 
 # Navigate to directory
 cd EchoSensus-HUD
